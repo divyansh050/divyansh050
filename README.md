@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Sikarwar</h1>
-<p align="center">Full Stack Web Developer with a specialization in MERN
-Stack. Hands-on experience in application development. Skilled
-in building web applications using HTML, CSS JavaScript, React, Node.js, Express.js & Mongodb.
-Experience in ES6. Able to quickly learn and master
-new technologies. High-energy, confident professional with
-passion for technology. Flexible and capable of balancing
-multiple projects at the same time. Good in managing time
-and organizing tasks. Successful working in both team and
-self-directed environments with good communication and
-interpersonal skills</p>
-<div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 />
-   <br><br>
-  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=divyansh050&theme=dracula&hide_border=true)
+<p align="center">Attentive Full-Stack Web Developer having 2 years of work experience in ReactJs, NextJs, JS and more with strong front-end design , problem-solving skills and expertise in MERN stack. Ability to work both independently and in a collaborative team. Looking forward to honing my skills in a challenging work environment.</p>
+<div align="center
+
 
 
 <p align="center"> 
