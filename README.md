@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Sikarwar</h1>
-<p align="center">Attentive Full-Stack Web Developer having 2 years of work experience in ReactJs, NextJs, JS and more with strong front-end design , problem-solving skills and expertise in MERN stack. Ability to work both independently and in a collaborative team. Looking forward to honing my skills in a challenging work environment.</p>
+<p align="center">Attentive Full-Stack Web Developer having 5+ years of work experience in ReactJs, NextJs, JS and more with strong front-end design , problem-solving skills and expertise in MERN stack. Ability to work both independently and in a collaborative team. Looking forward to honing my skills in a challenging work environment.</p>
 <div align="center
 
 
