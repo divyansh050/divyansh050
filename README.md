@@ -25,9 +25,6 @@
 
 <h2 align="center"> 📄 Know about my experiences</h2>
 
-#### Click here for my [Portfolio](https://divyanshsikarwar.netlify.app/)<br/>
-#### Click here for my [Resume](https://drive.google.com/file/d/1qUmlwz5cbUi1XUoeJqQhzKk0O03nrvG6/view?usp=sharing"Title")
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 
